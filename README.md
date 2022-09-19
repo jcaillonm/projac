@@ -1,2 +1,2 @@
 # projac
-Repositorio para le Proyecto de JAC
+Repositorio para el Proyecto de JAC
